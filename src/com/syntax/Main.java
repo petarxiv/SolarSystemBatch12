@@ -9,6 +9,6 @@ public class Main {
         FactorX.Moon="4";
         FactorX.Star="2";
         FactorX.Planet="1000";
-        
+
     }
 }
